@@ -1,5 +1,5 @@
 #!/bin/bash
-d='/mnt/d/Documents/Misc'
+d='~/Documents/Misc'
 f="$d/TwitterIDs.txt"
 if [[ -z $1 ]]; then
     echo "Enter a handle."
