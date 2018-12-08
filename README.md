@@ -10,7 +10,7 @@ This will work in the Windows Subsystem for Linux (WSL).
  
 
 ### Setup
-Since you have to build the username-ID list yourself the script stores the converted usernames with their IDs to your Documents folder in a text file named "TwitterIDs.txt". If you would rather edit the directory it's saved in just edit the variable "d" to the new directory.
+Since you have to build the username-ID list yourself, the script stores the converted usernames with their IDs to your Documents folder in a text file named "TwitterIDs.txt". If you would rather edit the directory it's saved in just edit the variable "d" to the new directory.
 
 You can also edit the username-ID list file by editing the f variable.
 
@@ -25,7 +25,9 @@ I would also recommend adding it as an alias for faster use. You can do this by 
 Now you can run it. Example:
 
 twitid felention
+
 1014584390989557760
 
 twitid 1014584390989557760
-felention.
+
+felention
